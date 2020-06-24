@@ -1,0 +1,5 @@
+{
+    "name": "Alone Mirror Bot",
+    "description": "Telegram Mirror bot which can mirror your files to GDrive app.json by Alone",
+    "stack": "container"
+}
